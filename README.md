@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, mundo! Soy Isaac 👋🇨🇴
 
-<!--
-**IsaacCode-cmd/IsaacCode-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenidos a mi cuartel general de código. Soy un desarrollador de Colombia apasionado por la lógica, la ciencia y la tecnología.
 
-Here are some ideas to get you started:
+# 🚀 Mi Gran Misión
+Estoy aprendiendo y construyendo las bases tecnológicas para revolucionar la educación pública en mi país. Mi meta es fundar una institución de software, electrónica y física basada en el lema: **"Aprender Haciendo"**, apoyada por inteligencia artificial interactiva y simulación práctica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Lo que estoy haciendo hoy:
+* 🐍 Dominando las bases de **Python** en FreeCodeCamp.
+* 🧠 Entrenando mi lógica de programación a diario en mi máquina guerrera 
+* 📚 Estudiando algoritmos y sistemas educativos eficaces para llegar a mi objetivo.
+
+## 🤝 ¡Únete a la revolución educativa!
+Si compartes la misma visión de transformar la educación y quieres colaborar en proyectos Open-Source de simulación y tecnología educativa, ¡eres bienvenido!
+
+* 📬 **Contáctame aquí:** isaacdavidparraballena444@gmail.com
+---
+> 💡 _"El código es el gran ecualizador que volteará la mirada del mundo hacia Colombia."_
